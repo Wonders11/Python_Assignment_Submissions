@@ -1,0 +1,1 @@
+This repository contains solutions for Python Assignments given in FSDM course by iNeuron
